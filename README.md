@@ -1,16 +1,34 @@
-## Hi there 👋
+# Kireeti V
+Portfolio: https://kireeti-ten.vercel.app/  
+Building scalable backend systems, distributed architectures, and developer tooling.
 
-<!--
-**Vasishta20/Vasishta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a pre-final year Computer Science student at Amrita Vishwa Vidyapeetham, focused on backend engineering and system design.
+
+My primary interest lies in designing systems that are:
+- Fault-tolerant
+- Scalable under load
+- Cleanly architected
+
+I work across APIs, distributed systems, and cloud-native deployments, with a growing focus on code intelligence systems.
+
+---
+
+## Engineering Focus
+
+- Designing RESTful and event-driven systems  
+- Distributed computing and microservices  
+- API security (JWT, RBAC)  
+- Database design (SQL + NoSQL tradeoffs)  
+- System design fundamentals (scaling, caching, load balancing)
+
+---
+
+## Links
+
+Portfolio: https://kireeti-ten.vercel.app/
+LinkedIn: https://linkedin.com/in/kireeti-v  
+Email: vkireetiv2005@gmail.com
