@@ -29,6 +29,6 @@ I work across APIs, distributed systems, and cloud-native deployments, with a gr
 
 ## Links
 
-Portfolio: https://kireeti-ten.vercel.app/
-LinkedIn: https://linkedin.com/in/kireeti-v  
-Email: vkireetiv2005@gmail.com
+
+LinkedIn: [[https://www.linkedin.com/in/ds-vasishta/]  
+Email: dsvasi2005@gmail.com
