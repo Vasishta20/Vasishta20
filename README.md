@@ -1,5 +1,5 @@
 # Ds Vasishta
-Portfolio: https://kireeti-ten.vercel.app/  
+  
 Building scalable backend systems, distributed architectures, and developer tooling.
 
 ---
