@@ -6,7 +6,7 @@ Building scalable backend systems, distributed architectures, and developer tool
 
 ## About Me
 
-I am a pre-final year Computer Science student at Amrita Vishwa Vidyapeetham, focused on backend engineering and system design.
+I am a final year Computer Science student at Amrita Vishwa Vidyapeetham, focused on backend engineering and system design.
 
 My primary interest lies in designing systems that are:
 - Fault-tolerant
